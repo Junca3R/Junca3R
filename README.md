@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juncar3" alt="juncar3" /></a> </p>
 
-- En busca de empleo para **Java developer**
+- 🔭 En busca de empleo para **Java developer**
 
 - 🌱 Actualmente estoy aprendiendo **Springboot y reforando conocimientos en Java**
 
