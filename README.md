@@ -7,7 +7,7 @@
 
 - 🔭 En busca de empleo para **Java developer**
 
-- 🌱 Actualmente estoy aprendiendo **Springboot y reforando conocimientos en Java**
+- 🌱 Actualmente estoy aprendiendo **Springboot y reforzando conocimientos en Java**
 
 - 👯 Busco colaborar en **Proyectos y retos que se me asignen**
 
